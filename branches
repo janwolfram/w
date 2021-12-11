@@ -1,0 +1,7 @@
+tx_firmware
+tx_app_server
+database
+webportal
+secrets
+canopen_varta
+xmc_bootloader
